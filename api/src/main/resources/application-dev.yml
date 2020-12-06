@@ -1,0 +1,5 @@
+env.dashboard.mongodb.user: dashboard-r
+env.dashboard.mongodb.password: fmZEPshnAFd62PEz
+env.dashboard.mongodb.host: localhost
+env.dashboard.mongodb.port: 27017
+env.dashboard.mongodb.db: dashboard

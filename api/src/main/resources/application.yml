@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+  data:
+    mongodb:
+      uri: mongodb://${env.dashboard.mongodb.user}:${env.dashboard.mongodb.password}@${env.dashboard.mongodb.host}:${env.dashboard.mongodb.port}/${env.dashboard.mongodb.db}

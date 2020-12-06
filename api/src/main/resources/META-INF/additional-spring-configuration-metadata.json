@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "env.dashboard.mongodb.user",
+    "type": "java.lang.String",
+    "description": "El usuario para conectar a Mongo"
+  },
+  {
+    "name": "env.dashboard.mongodb.password",
+    "type": "java.lang.String",
+    "description": "La  password para conectar a Mongo"
+  },
+  {
+    "name": "env.dashboard.mongodb.host",
+    "type": "java.lang.String",
+    "description": "El host para conectar a Mongo"
+  },
+  {
+    "name": "env.dashboard.mongodb.port",
+    "type": "java.lang.String",
+    "description": "El puerto para conectar a Mongo"
+  },
+  {
+    "name": "env.dashboard.mongodb.db",
+    "type": "java.lang.String",
+    "description": "La base de datps de Mongo"
+  }
+]}
